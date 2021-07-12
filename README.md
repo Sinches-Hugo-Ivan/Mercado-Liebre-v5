@@ -32,7 +32,7 @@ Como persona organizada y con una gran motivación, soy capaz de adaptarme a cua
  
  ## Instalación
 - Debes descargar o clonar el respositorio
-- `git clone https://github.com/Sinches-Hugo-Ivan/Mercado-Liebre-v3.git`
+- `git clone https://github.com/Sinches-Hugo-Ivan/Mercado-Liebre-v5.git`
 - Entra en el directorio Mercado-Liebre
 - Ejecutamos `npm install express`
 - En la barra de direcciones del navegador de nuestra preferencia escribimos http://localhost:3030
